@@ -1,0 +1,26 @@
+{
+  "name": "sample",
+  "version": "0.1.0",
+  "description": "sample for react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "shen.sxl",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer-loader": "^3.1.0",
+    "babel-core": "^5.8.23",
+    "babel-loader": "^5.3.2",
+    "css-loader": "^0.17.0",
+    "node-sass": "^3.3.2",
+    "react-hot-loader": "^1.3.0",
+    "sass-loader": "^2.0.1",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  },
+  "dependencies": {
+    "react": "^0.13.3"
+  }
+}
